@@ -1,0 +1,4 @@
+fastapi
+redis-om
+requests
+uvicorn
